@@ -1,5 +1,5 @@
 Inline code- 'int 1=0'
-Block code-
+block code-
 ''' C
 for(int i=0; i<10; i++)
 {
