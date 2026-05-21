@@ -3,5 +3,5 @@ Block code-
 ''' C
 for(int i=0; <10; i++)}
   printf("Hallow World!\n");
-{
+}
 '''
